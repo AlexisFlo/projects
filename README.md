@@ -16,5 +16,22 @@ This is the main repository for all of the projects.
 | 09  | [Sound Board](https://github.com/AlexisFlo/projects/tree/main/sound-board)                             | Working 👷🏽🏗️             |
 | 10  | [Dad Jokes](https://github.com/AlexisFlo/projects/tree/main/dad-jokes)                             | Working 👷🏽🏗️             |
 | 11  | [Event KeyCodes](https://github.com/AlexisFlo/projects/tree/main/event-keycodes)                             | Working 👷🏽🏗️             |
+| 12  | [FAQ collapse](https://github.com/AlexisFlo/projects/tree/main/faq-collapse)                             | Working 👷🏽🏗️             |
+| 13  | [Random Choice Picker](https://github.com/AlexisFlo/projects/tree/main/random-choice-picker)                             | Working 👷🏽🏗️             |
+| 14 | [Incrementing Counter](https://github.com/AlexisFlo/projects/tree/main/incrementing-counter)                             | Working 👷🏽🏗️             |
+| 15  | [Drink Water](https://github.com/AlexisFlo/projects/tree/main/drink-water)                             | Working 👷🏽🏗️             |
+| 16  | [Movie App](https://github.com/AlexisFlo/projects/tree/main/movie-app)                             | Working 👷🏽🏗️             |
+| 17  | [Background Slider](https://github.com/AlexisFlo/projects/tree/main/background-slider)                             | Working 👷🏽🏗️             |
+| 18  | [Theme Clock](https://github.com/AlexisFlo/projects/tree/main/theme-clock)                             | Working 👷🏽🏗️             |
+| 19  | [Button ripple Effect](https://github.com/AlexisFlo/projects/tree/main/button-ripple-effect)                             | Working 👷🏽🏗️             |
+| 20  | [Drag N Drop](https://github.com/AlexisFlo/projects/tree/main/drag-n-drop)                             | Working 👷🏽🏗️             |
+
+
+
+
+
+
+
+
 
 
